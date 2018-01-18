@@ -1,3 +1,5 @@
+splice
+
 # JavaScript Arrays
 
 ## Objectives
